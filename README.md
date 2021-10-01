@@ -5,3 +5,4 @@
 |**Coolors**| Another Color Palettes For Designers |[Website](https://coolors.co/)|
 |**Codepen**| Online Code Editor |[Website](https://codepen.io/)|
 |**Sentry**| Application Monitoring and error Tracking | [Website](https://sentry.io/welcome/)|
+|**Lorem Ipsum Generator**|Lorem Ipsum Generator|[Website](https://loremipsum.io/)|
