@@ -12,7 +12,7 @@
 |**FigJam**| Whiteboard collaboration tool to brainstorm and organize ideas |[Website](https://www.figma.com/figjam)|
 |**FlutLab**| Online Flutter IDE |[Website](https://flutlab.io/)|
 |**Bootstrap**| One of the most popular front-end framework |[Website](https://getbootstrap.com/)|
-|**Tailwind Css**| One of the most popular front-end framework |[Website](https://tailwindcss.com/)|
+|**Tailwind Css**| Another most popular front-end framework |[Website](https://tailwindcss.com/)|
 |**CSS Generator**| A CSS Generator with many css componte |[Website](https://webcode.tools/generators/css)|
 |**HTML Generator**| A HTML Generator |[Website](https://webcode.tools/generators/html)|
 |**JSON-LINKED DATA Generator**| A json-ld Generator |[Website](https://webcode.tools/generators/json-ld)|
