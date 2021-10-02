@@ -2,4 +2,6 @@ This is not just an Ordinary repository to encourgae hacktoberfest. this is also
 
 Contribute to the repository by adding the ones you know in the pages/index.js
 
+the changes will be listed in [Tools](https://tools.aks.one)
+
 Happy hacktober
