@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import {data} from './data'
 
 export default function Home() {
   return (
@@ -17,18 +18,19 @@ export default function Home() {
           here you can awesome find tools related to designing and development stuffs
         </p>
 
-        <div className="grid">
-          <a href="https://hoppscotch.io" className="card">
-            <h3>Hoppscotch &rarr;</h3>
-            <p>An Open source API development ecosystem</p>
-          </a>
 
+
+        <div className="grid">
           
-          <a
-            href="https://sentry.io" className="card">
-            <h3>Sentry &rarr;</h3>
-            <p>Application monitoring and error tracking software</p>
+
+          {data.map(item => (
+            <a href={item.siteURL} className="card">
+            <h3>{item.siteName} &rarr;</h3>
+            <p>{item.siteDesc}</p>
           </a>
+            
+          ))}
+          
 
         </div>
       </main>
