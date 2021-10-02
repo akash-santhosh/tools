@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          here you can find tools related to designing and development stuffs
+          here you can awesome find tools related to designing and development stuffs
         </p>
 
         <div className="grid">
