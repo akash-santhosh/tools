@@ -15,9 +15,8 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          here you can awesome find tools related to designing and development stuffs
+          Here you can find some awesome tools related to Design & Development
         </p>
-
 
 
         <div className="grid">
@@ -27,9 +26,11 @@ export default function Home() {
             <a href={item.siteURL} className="card">
             <h3>{item.siteName} &rarr;</h3>
             <p>{item.siteDesc}</p>
-          </a>
+
             
           ))}
+          
+
           
 
         </div>
