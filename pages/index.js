@@ -27,7 +27,7 @@ export default function Home() {
           <a
             href="https://sentry.io" className="card">
             <h3>Sentry &rarr;</h3>
-            <p>Application monitoring and error tracking Software</p>
+            <p>Application monitoring and error tracking software</p>
           </a>
 
         </div>
