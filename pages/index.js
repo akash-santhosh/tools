@@ -27,7 +27,7 @@ export default function Home() {
             <h3>{item.siteName} &rarr;</h3>
             <p>{item.siteDesc}</p>
 
-            
+            </a>
           ))}
           
 
