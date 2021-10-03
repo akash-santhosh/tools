@@ -1,5 +1,6 @@
 import Head from 'next/head'
-import {data} from '../data'
+import { render } from 'react-dom'
+import {data,categories} from '../data'
 
 export default function Home() {
   return (
@@ -19,21 +20,27 @@ export default function Home() {
         </p>
 
 
-        <div className="grid">
+        
           
 
-          {data.map(item => (
-            <a href={item.siteURL} className="card">
-            <h3>{item.siteName} &rarr;</h3>
-            <p>{item.siteDesc}</p>
 
-            </a>
+          {categories.map(category => (       
+           <> <a href={"#"+category}><h1 className="categoryHead" id={category}>{category}</h1></a>
+           <div className="grid">
+            {data.filter(item=>item.category==category).map(item => (
+              <a href={item.siteURL} className="card">
+                <h3>{item.siteName} &rarr;</h3>
+                <p>{item.siteDesc}</p>
+
+              </a>
+          ))}</div></>
+
           ))}
           
 
           
 
-        </div>
+      
       </main>
 
       <footer>
@@ -133,7 +140,7 @@ export default function Home() {
           flex-wrap: wrap;
 
           max-width: 800px;
-          margin-top: 3rem;
+          margin-top: 0.1rem;
         }
 
         .card {
