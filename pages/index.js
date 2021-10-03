@@ -23,7 +23,7 @@ export default function Home() {
           
 
           {data.map(item => (
-            <a href={item.siteURL} className="card">
+            <a target="_blank" href={item.siteURL} className="card">
             <h3>{item.siteName} &rarr;</h3>
             <p>{item.siteDesc}</p>
 

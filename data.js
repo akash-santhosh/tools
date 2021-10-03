@@ -29,6 +29,10 @@ export const data=[
         "siteURL":"https://colorhunt.co/",
         "siteDesc":"Color Palettes Generator for Designers and Artists"
     },{
+        "siteName":"Creately",
+        "siteURL":"https://creately.com/",
+        "siteDesc":"Collaboration tool with diagramming & design capabilities"
+    },{
         "siteName":"JSON Formatter",
         "siteURL":"https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa",
         "siteDesc":"Assist in formatting & beautifying the JSON data (Chrome Extention)"
@@ -40,9 +44,5 @@ export const data=[
         "siteName":"ColorZilla",
         "siteURL":"https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp",
         "siteDesc":"To get a color reading from any point within the browser (Chrome Extention)"
-    },{
-        "siteName":"Creately",
-        "siteURL":"https://creately.com/",
-        "siteDesc":"Collaboration tool with diagramming & design capabilities"
-    }
+    },
 ]
