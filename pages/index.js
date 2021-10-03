@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import {data} from '../data'
 
 export default function Home() {
   return (
@@ -17,53 +18,20 @@ export default function Home() {
           Here you can find some awesome tools related to Design & Development
         </p>
 
+
         <div className="grid">
-          <a href="https://hoppscotch.io" className="card">
-            <h3>Hoppscotch &rarr;</h3>
-            <p>An Open source API development ecosystem</p>
-          </a>
-
-          <a
-            href="https://sentry.io" className="card">
-            <h3>Sentry &rarr;</h3>
-            <p>Application monitoring and error tracking software</p>
-          </a>
-
-          <a
-            href="https://www.figma.com/" className="card">
-            <h3>Figma &rarr;</h3>
-            <p>Web-based Vector Graphics editor & Prototyping tool</p>
-          </a>
-
-          <a
-            href="https://www.figma.com/figjam/" className="card">
-            <h3>FigJam &rarr;</h3>
-            <p>Whiteboard collaboration tool to brainstorm and organize ideas</p>
-          </a>
-
-          <a
-            href="https://coolors.co" className="card">
-            <h3>Coolors &rarr;</h3>
-            <p>Color Palettes Generator for Designers and Artists</p>
-          </a>
           
-          <a
-            href="https://colorhunt.co/" className="card">
-            <h3>Color Hunt &rarr;</h3>
-            <p>Another Color Palettes For Designers</p>
-          </a>
 
-          <a
-            href="https://creately.com/" className="card">
-            <h3>Creately &rarr;</h3>
-            <p>Collaboration tool with diagramming & design capabilities</p>
-          </a>
+          {data.map(item => (
+            <a href={item.siteURL} className="card">
+            <h3>{item.siteName} &rarr;</h3>
+            <p>{item.siteDesc}</p>
 
-          <a
-            href="https://buefy.org/" className="card">
-            <h3>Buefy &rarr;</h3>
-            <p>Lightweight UI components for Vue.js based on Bulma</p>
-          </a>
+            </a>
+          ))}
+          
+
+          
 
         </div>
       </main>
