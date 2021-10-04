@@ -41,4 +41,10 @@ export const data=[
         "siteDesc":"Collaboration tool with diagramming & design capabilities",
         "category":"Others"
     },
+    {
+        "siteName":"Lorem Ipsum Generator",
+        "siteURL":"https://loremipsum.io/",
+        "siteDesc":"Lorem Ipsum Generator",
+        "category":"Frontend"
+    },
 ]
