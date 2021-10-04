@@ -46,8 +46,8 @@ export const data=[
         "siteURL": "https://rapidapi.com/hub",
         "siteDesc": "To discover and connect to thousands of APIs",
         "category": "Others"
-    }
-]
+    },
+    {
         "siteName":"Coolors",
         "siteURL":"https://coolors.co",
         "siteDesc":"Color Palettes Generator for Designers and Artists",
