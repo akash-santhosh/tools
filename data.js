@@ -35,30 +35,41 @@ export const data=[
         "siteURL":"https://colorhunt.co/",
         "siteDesc":"Color Palettes Generator for Designers and Artists",
         "category":"Design"
-    },{
+    },
+    {
         "siteName":"Creately",
         "siteURL":"https://creately.com/",
         "siteDesc":"Collaboration tool with diagramming & design capabilities",
         "category":"Others"
-    },{
+    },
+    {
         "siteName":"JSON Formatter",
         "siteURL":"https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa",
         "siteDesc":"Assist in formatting & beautifying the JSON data (Chrome Extention)",
         "category":"Development"
-    },{
+    },
+    {
         "siteName":"Grammarly",
         "siteURL":"https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen",
         "siteDesc":"Helps to eliminate writing errors & find suggests perfect words (Chrome Extention)",
         "category":"Others"
-    },{
+    },
+    {
         "siteName":"ColorZilla",
         "siteURL":"https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp",
         "siteDesc":"To get a color reading from any point within the browser (Chrome Extention)",
         "category":"Design"
-    },{
+    },
+    {
         "siteName":"Lorem Ipsum Generator",
         "siteURL":"https://loremipsum.io/",
         "siteDesc":"Lorem Ipsum Generator",
         "category":"Frontend"
     },
+    {
+        "siteName":"axe DevTools",
+        "siteURL":"https://www.deque.com/axe/devtools/",
+        "siteDesc":"Next level Accessibility Testing",
+        "category":"Others"
+    }
 ]
