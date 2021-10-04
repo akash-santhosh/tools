@@ -55,5 +55,10 @@ export const data=[
         "siteURL":"https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp",
         "siteDesc":"To get a color reading from any point within the browser (Chrome Extention)",
         "category":"Design"
-    }
+    },{
+        "siteName":"Lorem Ipsum Generator",
+        "siteURL":"https://loremipsum.io/",
+        "siteDesc":"Lorem Ipsum Generator",
+        "category":"Frontend"
+    },
 ]
