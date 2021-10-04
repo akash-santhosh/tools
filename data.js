@@ -90,6 +90,12 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"Web Designers Tools",
+        "siteURL":"https://toolkit.addy.codes/",
+        "siteDesc":"533 hand-picked tools & resources for web designers & developers",
+        "category":"Design"
+    },
+    {
         "siteName":"axe DevTools",
         "siteURL":"https://www.deque.com/axe/devtools/",
         "siteDesc":"Next level Accessibility Testing",
