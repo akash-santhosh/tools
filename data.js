@@ -35,10 +35,17 @@ export const data=[
         "siteURL":"https://colorhunt.co/",
         "siteDesc":"Color Palettes Generator for Designers and Artists",
         "category":"Frontend"
-    },{
+    },
+    {
         "siteName":"Creately",
         "siteURL":"https://creately.com/",
         "siteDesc":"Collaboration tool with diagramming & design capabilities",
         "category":"Others"
     },
+    {
+        "siteName":"axe DevTools",
+        "siteURL":"https://www.deque.com/axe/devtools/",
+        "siteDesc":"Next level Accessibility Testing",
+        "category":"Others"
+    }
 ]
