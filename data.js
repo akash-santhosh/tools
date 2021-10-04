@@ -13,18 +13,41 @@ export const data=[
         "category":"Development"
     },
     {
-        "siteName":"Figma",
-        "siteURL":"https://www.figma.com/",
-        "siteDesc":"Web-based Vector Graphics editor & Prototyping tool",
-        "category":"Design"
+        "siteName": "Figma",
+        "siteURL": "https://www.figma.com/",
+        "siteDesc": "Web-based Vector Graphics editor & Prototyping tool",
+        "category": "Design"
     },
     {
-        "siteName":"FigJam",
-        "siteURL":"https://www.figma.com/figjam/",
-        "siteDesc":"Whiteboard collaboration tool to brainstorm and organize ideas",
-        "category":"Others"
+        "siteName": "FigJam",
+        "siteURL": "https://www.figma.com/figjam/",
+        "siteDesc": "Whiteboard collaboration tool to brainstorm and organize ideas",
+        "category": "Others"
     },
     {
+        "siteName": "Coolors",
+        "siteURL": "https://coolors.co",
+        "siteDesc": "Color Palettes Generator for Designers and Artists",
+        "category": "Development"
+    },
+    {
+        "siteName": "Color Hunt",
+        "siteURL": "https://colorhunt.co/",
+        "siteDesc": "Color Palettes Generator for Designers and Artists",
+        "category": "Development"
+    }, {
+        "siteName": "Creately",
+        "siteURL": "https://creately.com/",
+        "siteDesc": "Collaboration tool with diagramming & design capabilities",
+        "category": "Others"
+    },
+    {
+        "siteName": "RapidAPI",
+        "siteURL": "https://rapidapi.com/hub",
+        "siteDesc": "To discover and connect to thousands of APIs",
+        "category": "Others"
+    }
+]
         "siteName":"Coolors",
         "siteURL":"https://coolors.co",
         "siteDesc":"Color Palettes Generator for Designers and Artists",
@@ -64,7 +87,7 @@ export const data=[
         "siteName":"Lorem Ipsum Generator",
         "siteURL":"https://loremipsum.io/",
         "siteDesc":"Lorem Ipsum Generator",
-        "category":"Frontend"
+        "category":"Development"
     },
     {
         "siteName":"axe DevTools",
