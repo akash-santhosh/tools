@@ -106,5 +106,29 @@ export const data=[
         "siteURL":"http://raphaelhanneken.com/iconizer/",
         "siteDesc":"Quickly create XCode image assets",
         "category":"Design"
+    },
+    {
+        "siteName":"Canva",
+        "siteURL":"https://www.canva.com/",
+        "siteDesc":"Anyone can create professional looking graphics and designs",
+        "category":"Design"
+    },
+    {
+        "siteName":"Google Fonts",
+        "siteURL":"https://fonts.google.com/",
+        "siteDesc":"Library that includes free and open source font families, an interactive web directory for browsing the fonts",
+        "category":"Design"
+    },
+    {
+        "siteName":"GitKraken",
+        "siteURL":"https://www.gitkraken.com/",
+        "siteDesc":"Powerful Git GUI for developers that helps make sense of Git. You can easily open repos, set favorites, and organize them in project groups",
+        "category":"Development"
+    },
+    {
+        "siteName":"PageSpeed Insights",
+        "siteURL":"https://developers.google.com/speed/pagespeed/insights/",
+        "siteDesc":" Google’s PageSpeed Insights is a tool for discovering how a website performs and where you can enhance the loading speed.",
+        "category":"Development"
     }
 ]
