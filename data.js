@@ -184,4 +184,10 @@ export const data=[
         "siteDesc":"The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.",
         "category":"Development"
     },
+    {
+        "siteName":"Redis",
+        "siteURL":"https://redis.io/",
+        "siteDesc":"It is an open source tool. Also it Provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.",
+        "category":"Development"
+    },   
 ]
