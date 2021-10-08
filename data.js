@@ -24,6 +24,12 @@ export const data=[
         "siteDesc": "Whiteboard collaboration tool to brainstorm and organize ideas",
         "category": "Others"
     },
+     {
+        "siteName": "miro board",
+        "siteURL": "https://www.miro.com/miro/",
+        "siteDesc": "The online collaborative whiteboard platform to bring teams together, anytime, anywhere.",
+        "category": "Others"
+    },
     {
         "siteName": "Coolors",
         "siteURL": "https://coolors.co",
