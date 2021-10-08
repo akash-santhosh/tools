@@ -130,5 +130,12 @@ export const data=[
         "siteURL":"https://developers.google.com/speed/pagespeed/insights/",
         "siteDesc":" Google’s PageSpeed Insights is a tool for discovering how a website performs and where you can enhance the loading speed.",
         "category":"Development"
-    }
+    },
+    {
+        "siteName":"swagger",
+        "siteURL":"https://swagger.io",
+        "siteDesc":"Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset",
+        "category":"Development"
+    },
+    
 ]
