@@ -131,4 +131,10 @@ export const data=[
         "siteDesc":" Google’s PageSpeed Insights is a tool for discovering how a website performs and where you can enhance the loading speed.",
         "category":"Development"
     }
+     {
+        "siteName":"Strapi",
+        "siteURL":"https://strapi.io/",
+        "siteDesc":"Strapi enables content-rich experiences to be created, managed and exposed to any digital product, channel or device.",
+        "category":"Development"
+    }
 ]
