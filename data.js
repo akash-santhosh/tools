@@ -24,6 +24,18 @@ export const data=[
         "siteDesc": "Whiteboard collaboration tool to brainstorm and organize ideas",
         "category": "Others"
     },
+     {
+        "siteName": "miro board",
+        "siteURL": "https://www.miro.com/miro/",
+        "siteDesc": "The online collaborative whiteboard platform to bring teams together, anytime, anywhere.",
+        "category": "Others"
+    },
+    {
+        "siteName": "AWS Copilot",
+        "siteURL": "https://AWS Copilot.co",
+        "siteDesc": "simplify building, releasing, and operating production-ready containerized applications on Amazon",
+        "category": "Development"
+    },
     {
         "siteName": "Coolors",
         "siteURL": "https://coolors.co",
@@ -35,7 +47,8 @@ export const data=[
         "siteURL": "https://colorhunt.co/",
         "siteDesc": "Color Palettes Generator for Designers and Artists",
         "category": "Development"
-    }, {
+    }, 
+    {
         "siteName": "Creately",
         "siteURL": "https://creately.com/",
         "siteDesc": "Collaboration tool with diagramming & design capabilities",
@@ -168,13 +181,19 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"hugo",
+        "siteURL":"https://hugo.com/",
+        "siteDesc":"Hugo is one of the most popular open-source static site generators.",
+        "category":"Development" 
+    },
+    {
         "siteName":"Sketch",
         "siteURL":"https://www.sketch.com/",
         "siteDesc":"Sketch gives you all the tools you need for a truly collaborative design process.",
         "category":"Design"
     },
     {
-         "siteName":"Drupal",
+        "siteName":"Drupal",
         "siteURL":"https://www.drupal.org/",
         "siteDesc":"Drupal is a free, open-source content management system (CMS) with a large, supportive community",
         "category":"Development"
