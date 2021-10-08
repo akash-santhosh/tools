@@ -25,6 +25,12 @@ export const data=[
         "category": "Others"
     },
     {
+        "siteName": "miro board",
+        "siteURL": "https://www.miro.com/miro/",
+        "siteDesc": "The online collaborative whiteboard platform to bring teams together, anytime, anywhere.",
+        "category": "Others"
+    },
+    {
         "siteName": "Coolors",
         "siteURL": "https://coolors.co",
         "siteDesc": "Color Palettes Generator for Designers and Artists",
@@ -130,11 +136,70 @@ export const data=[
         "siteURL":"https://developers.google.com/speed/pagespeed/insights/",
         "siteDesc":" Google’s PageSpeed Insights is a tool for discovering how a website performs and where you can enhance the loading speed.",
         "category":"Development"
-    }
-     {
+    },
+    {
         "siteName":"Strapi",
         "siteURL":"https://strapi.io/",
         "siteDesc":"Strapi enables content-rich experiences to be created, managed and exposed to any digital product, channel or device.",
         "category":"Development"
-    }
+    },
+    {
+        "siteName":"Blob Maker",
+        "siteURL":"https://www.blobmaker.app/",
+        "siteDesc":"Free generative design tool to help you quickly create random, unique, and organic-looking SVG shape.",
+        "category":"Design"
+    },
+    {
+        "siteName":"Undraw",
+        "siteURL":"https://undraw.co/",
+        "siteDesc":"Free and open-source illustrations for any idea you can imagine and create.",
+        "category":"Design"
+    },
+    {
+        "siteName":"Nest js",
+        "siteURL":"https://nestjs.com/",
+        "siteDesc":" A progressive Node.js framework for building efficient, reliable and scalable server-side applications.",
+        "category":"Development"
+    },
+    {
+        "siteName":"swagger",
+        "siteURL":"https://swagger.io",
+        "siteDesc":"Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset",
+        "category":"Development"
+    },
+    {
+        "siteName":"Svelte",
+        "siteURL":"https://svelte.dev/",
+        "siteDesc":"Cybernetically enhanced web apps.Svelte is a radical new approach to building user interfaces.",
+        "category":"Development"
+    },
+    {
+        "siteName":"Tailwind CSS",
+        "siteURL":"https://tailwindcss.com/",
+        "siteDesc":"Rapidly build modern websites without ever leaving your HTML",
+        "category":"Development"
+    },
+    {
+        "siteName":"hugo",
+        "siteURL":"https://hugo.com/",
+        "siteDesc":"Hugo is one of the most popular open-source static site generators.",
+    },
+    {
+        "siteName":"Sketch",
+        "siteURL":"https://www.sketch.com/",
+        "siteDesc":"Sketch gives you all the tools you need for a truly collaborative design process.",
+        "category":"Design"
+    },
+    {
+        "siteName":"Drupal",
+        "siteURL":"https://www.drupal.org/",
+        "siteDesc":"Drupal is a free, open-source content management system (CMS) with a large, supportive community",
+        "category":"Development"
+    },
+    {
+        "siteName":"Jenkins",
+        "siteURL":"https://www.jenkins.io/",
+        "siteDesc":"The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.",
+        "category":"Development"
+    },
 ]
