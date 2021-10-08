@@ -183,8 +183,9 @@ export const data=[
         "siteURL":"https://www.sketch.com/",
         "siteDesc":"Sketch gives you all the tools you need for a truly collaborative design process.",
         "category":"Design"
+    },
     {
-         "siteName":"Drupal",
+        "siteName":"Drupal",
         "siteURL":"https://www.drupal.org/",
         "siteDesc":"Drupal is a free, open-source content management system (CMS) with a large, supportive community",
         "category":"Development"
