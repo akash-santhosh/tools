@@ -130,5 +130,11 @@ export const data=[
         "siteURL":"https://developers.google.com/speed/pagespeed/insights/",
         "siteDesc":" Google’s PageSpeed Insights is a tool for discovering how a website performs and where you can enhance the loading speed.",
         "category":"Development"
+    },
+    {
+        "siteName":"React",
+        "siteURL":"https://reactjs.org/",
+        "siteDesc":" A JavaScript library for building user interfaces.",
+        "category":"Language"
     }
 ]
