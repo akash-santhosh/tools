@@ -173,7 +173,12 @@ export const data=[
         "siteDesc":"Rapidly build modern websites without ever leaving your HTML",
         "category":"Development"
     },
-     {
+    {
+        "siteName":"hugo",
+        "siteURL":"https://hugo.com/",
+        "siteDesc":"Hugo is one of the most popular open-source static site generators.",
+    },
+    {
         "siteName":"Sketch",
         "siteURL":"https://www.sketch.com/",
         "siteDesc":"Sketch gives you all the tools you need for a truly collaborative design process.",
