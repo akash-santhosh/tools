@@ -41,7 +41,8 @@ export const data=[
         "siteURL": "https://colorhunt.co/",
         "siteDesc": "Color Palettes Generator for Designers and Artists",
         "category": "Development"
-    }, {
+    }, 
+    {
         "siteName": "Creately",
         "siteURL": "https://creately.com/",
         "siteDesc": "Collaboration tool with diagramming & design capabilities",
