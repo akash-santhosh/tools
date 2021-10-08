@@ -137,6 +137,33 @@ export const data=[
         "siteDesc":"Free generative design tool to help you quickly create random, unique, and organic-looking SVG shape.",
         "category":"Design"
     }
+        "siteName":"Undraw",
+        "siteURL":"https://undraw.co/",
+        "siteDesc":"Free and open-source illustrations for any idea you can imagine and create.",
+        "category":"Design"
+    },
+    {
+        "siteName":"Nest js",
+        "siteURL":"https://nestjs.com/",
+        "siteDesc":" A progressive Node.js framework for building efficient, reliable and scalable server-side applications.",
+        "category":"Development"
+    },
+    {
+        "siteName":"swagger",
+        "siteURL":"https://swagger.io",
+        "siteDesc":"Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset",
+        "category":"Development"
+    },
+    {
+        "siteName":"Svelte",
+        "siteURL":"https://svelte.dev/",
+        "siteDesc":"Cybernetically enhanced web apps.Svelte is a radical new approach to building user interfaces.",
+        "category":"Development"
+    },
+    {
+        "siteName":"Tailwind CSS",
+        "siteURL":"https://tailwindcss.com/",
+        "siteDesc":"Rapidly build modern websites without ever leaving your HTML",
+        "category":"Development"
+    },
 ]
-
-
