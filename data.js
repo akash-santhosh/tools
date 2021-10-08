@@ -216,4 +216,11 @@ export const data=[
         "siteDesc":"It is an open source tool. Also it Provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.",
         "category":"Development"
     },
-]
+    { 
+        "siteName":"JQuery",
+        "siteURL":"https://jquery.com/",
+        "siteDesc":"JQuery is a fast, small, and feature-rich JavaScript library.",
+        "category":"Development"
+    }
+    ]
+        
