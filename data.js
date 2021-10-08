@@ -150,4 +150,10 @@ export const data=[
         "siteDesc":"Cybernetically enhanced web apps.Svelte is a radical new approach to building user interfaces.",
         "category":"Development"
     },
+    {
+        "siteName":"Tailwind CSS",
+        "siteURL":"https://tailwindcss.com/",
+        "siteDesc":"Rapidly build modern websites without ever leaving your HTML",
+        "category":"Development"
+    },
 ]
