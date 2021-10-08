@@ -132,7 +132,18 @@ export const data=[
         "category":"Development"
     },
     {
-
+        "siteName":"Blob Maker",
+        "siteURL":"https://www.blobmaker.app/",
+        "siteDesc":"Free generative design tool to help you quickly create random, unique, and organic-looking SVG shape.",
+        "category":"Design"
+    },
+    {
+        "siteName":"Undraw",
+        "siteURL":"https://undraw.co/",
+        "siteDesc":"Free and open-source illustrations for any idea you can imagine and create.",
+        "category":"Design"
+    },
+    {
         "siteName":"Nest js",
         "siteURL":"https://nestjs.com/",
         "siteDesc":" A progressive Node.js framework for building efficient, reliable and scalable server-side applications.",
@@ -156,10 +167,26 @@ export const data=[
         "siteDesc":"Rapidly build modern websites without ever leaving your HTML",
         "category":"Development"
     },
-     {
+    {
         "siteName":"hugo",
         "siteURL":"https://hugo.com/",
         "siteDesc":"Hugo is one of the most popular open-source static site generators.",
+    },
+    {
+        "siteName":"Sketch",
+        "siteURL":"https://www.sketch.com/",
+        "siteDesc":"Sketch gives you all the tools you need for a truly collaborative design process.",
+        "category":"Design"
+    {
+         "siteName":"Drupal",
+        "siteURL":"https://www.drupal.org/",
+        "siteDesc":"Drupal is a free, open-source content management system (CMS) with a large, supportive community",
+        "category":"Development"
+    },
+    {
+        "siteName":"Jenkins",
+        "siteURL":"https://www.jenkins.io/",
+        "siteDesc":"The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.",
         "category":"Development"
     },
 ]
