@@ -166,7 +166,7 @@ export const data=[
         "siteURL":"https://tailwindcss.com/",
         "siteDesc":"Rapidly build modern websites without ever leaving your HTML",
         "category":"Development"
-    }
+    },
      {
         "siteName":"Sketch",
         "siteURL":"https://www.sketch.com/",
