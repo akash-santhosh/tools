@@ -134,7 +134,7 @@ export const data=[
     {
 
         "siteName":"Nest js",
-        "siteURL":"https://nestjs.com/,
+        "siteURL":"https://nestjs.com/",
         "siteDesc":" A progressive Node.js framework for building efficient, reliable and scalable server-side applications.",
         "category":"Development"
     },
