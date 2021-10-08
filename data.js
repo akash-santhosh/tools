@@ -216,4 +216,10 @@ export const data=[
         "siteDesc":"It is an open source tool. Also it Provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.",
         "category":"Development"
     },
+    {
+        "siteName":"sass",
+        "siteURL":"https://sass-lang.com/",
+        "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
+        "category":"Development"
+    }
 ]
