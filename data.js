@@ -136,5 +136,10 @@ export const data=[
         "siteURL":"https://undraw.co/",
         "siteDesc":"Free and open-source illustrations for any idea you can imagine and create.",
         "category":"Design"
-    }
+    },
+        "siteName":"swagger",
+        "siteURL":"https://swagger.io",
+        "siteDesc":"Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset",
+        "category":"Development"
+    },
 ]
