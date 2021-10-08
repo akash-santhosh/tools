@@ -166,7 +166,12 @@ export const data=[
         "siteURL":"https://tailwindcss.com/",
         "siteDesc":"Rapidly build modern websites without ever leaving your HTML",
         "category":"Development"
-    },
+    }
+     {
+        "siteName":"Sketch",
+        "siteURL":"https://www.sketch.com/",
+        "siteDesc":"Sketch gives you all the tools you need for a truly collaborative design process.",
+        "category":"Design"
     {
          "siteName":"Drupal",
         "siteURL":"https://www.drupal.org/",
