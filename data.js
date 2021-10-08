@@ -24,7 +24,7 @@ export const data=[
         "siteDesc": "Whiteboard collaboration tool to brainstorm and organize ideas",
         "category": "Others"
     },
-     {
+    {
         "siteName": "miro board",
         "siteURL": "https://www.miro.com/miro/",
         "siteDesc": "The online collaborative whiteboard platform to bring teams together, anytime, anywhere.",
@@ -135,6 +135,12 @@ export const data=[
         "siteName":"PageSpeed Insights",
         "siteURL":"https://developers.google.com/speed/pagespeed/insights/",
         "siteDesc":" Google’s PageSpeed Insights is a tool for discovering how a website performs and where you can enhance the loading speed.",
+        "category":"Development"
+    },
+    {
+        "siteName":"Strapi",
+        "siteURL":"https://strapi.io/",
+        "siteDesc":"Strapi enables content-rich experiences to be created, managed and exposed to any digital product, channel or device.",
         "category":"Development"
     },
     {
