@@ -137,5 +137,11 @@ export const data=[
         "siteDesc":"Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset",
         "category":"Development"
     },
+    {
+        "siteName":"Svelte",
+        "siteURL":"https://svelte.dev/",
+        "siteDesc":"Cybernetically enhanced web apps.Svelte is a radical new approach to building user interfaces.",
+        "category":"Development"
+    }
     
 ]
