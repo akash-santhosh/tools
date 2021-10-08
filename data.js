@@ -132,6 +132,11 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"Blob Maker",
+        "siteURL":"https://www.blobmaker.app/",
+        "siteDesc":"Free generative design tool to help you quickly create random, unique, and organic-looking SVG shape.",
+        "category":"Design"
+    }
         "siteName":"Undraw",
         "siteURL":"https://undraw.co/",
         "siteDesc":"Free and open-source illustrations for any idea you can imagine and create.",
