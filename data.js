@@ -181,6 +181,12 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"Bootstrap",
+        "siteURL":"https://getbootstrap.com/",
+        "siteDesc":"Helps in quick design and customization of responsive mobile sites.",
+        "category":"Development"
+    },
+    {
         "siteName":"hugo",
         "siteURL":"https://hugo.com/",
         "siteDesc":"Hugo is one of the most popular open-source static site generators.",
@@ -209,5 +215,5 @@ export const data=[
         "siteURL":"https://redis.io/",
         "siteDesc":"It is an open source tool. Also it Provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.",
         "category":"Development"
-    },   
+    },
 ]
