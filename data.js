@@ -132,6 +132,13 @@ export const data=[
         "category":"Development"
     },
     {
+
+        "siteName":"Nest js",
+        "siteURL":"https://nestjs.com/",
+        "siteDesc":" A progressive Node.js framework for building efficient, reliable and scalable server-side applications.",
+        "category":"Development"
+    },
+    {
         "siteName":"swagger",
         "siteURL":"https://swagger.io",
         "siteDesc":"Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset",
@@ -142,6 +149,5 @@ export const data=[
         "siteURL":"https://svelte.dev/",
         "siteDesc":"Cybernetically enhanced web apps.Svelte is a radical new approach to building user interfaces.",
         "category":"Development"
-    }
-    
+    },
 ]
