@@ -235,6 +235,12 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"W3schools",
+        "siteURL":"https://W3schools.COM/",
+        "siteDesc":"W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding..",
+        "category":"Development"
+    },
+    {
         "siteName":"bootstrap",
         "siteURL":"https://getbootstrap.com/",
         "siteDesc":"Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
