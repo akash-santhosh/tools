@@ -235,6 +235,12 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"Bootstrap",
+        "siteURL":"https://getbootstrap.com/",
+        "siteDesc":"Helps in quick design and customization of responsive mobile sites.",
+        "category":"Development"   
+    },
+    {
         "siteName":"netguru",
         "siteURL":"https://www.netguru.com/services?utm_source=clutch&utm_medium=referral",
         "siteDesc":"Design. Development. Consultancy. .",
