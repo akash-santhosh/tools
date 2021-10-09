@@ -235,6 +235,12 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"netguru",
+        "siteURL":"https://www.netguru.com/services?utm_source=clutch&utm_medium=referral",
+        "siteDesc":"Design. Development. Consultancy. .",
+        "category":"Development"
+    },
+    {
         "siteName":"W3schools",
         "siteURL":"https://W3schools.COM/",
         "siteDesc":"W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding..",
@@ -252,4 +258,4 @@ export const data=[
         "siteDesc":"github is a open source for coders",
         "category":"Development"
     },
-]
+  ]
