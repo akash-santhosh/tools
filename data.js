@@ -228,4 +228,10 @@ export const data=[
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
     }
+    {
+        "siteName":"netguru",
+        "siteURL":"https://www.netguru.com/services?utm_source=clutch&utm_medium=referral",
+        "siteDesc":"Design. Development. Consultancy. .",
+        "category":"Development"
+    }
 ]
