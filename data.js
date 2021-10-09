@@ -225,7 +225,11 @@ export const data=[
     {
         "siteName":"sass",
         "siteURL":"https://sass-lang.com/",
-        "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
-        "category":"Development"
+        "siteDesc":"sass is a developing site."
+        "category":"development"
     }
+     "siteName":"imdb",
+        "siteURL":"https://imdb.com/",
+        "siteDesc":"flim review pge.",
+        "category":"enertainment"
 ]
