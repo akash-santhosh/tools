@@ -13,6 +13,12 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"Strapi",
+        "siteURL":"https://strapi.io",
+        "siteDesc":"Strapi is the next-gen headless CMS, open-source, javascript, enabling content-rich experiences to be created, managed and exposed to any digital device",
+        "category":"Development"
+    },
+    {
         "siteName": "Figma",
         "siteURL": "https://www.figma.com/",
         "siteDesc": "Web-based Vector Graphics editor & Prototyping tool",
@@ -227,11 +233,23 @@ export const data=[
         "siteURL":"https://sass-lang.com/",
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
-    }
+    },
     {
         "siteName":"W3schools",
         "siteURL":"https://W3schools.COM/",
         "siteDesc":"W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding..",
         "category":"Development"
-    }
+    },
+    {
+        "siteName":"bootstrap",
+        "siteURL":"https://getbootstrap.com/",
+        "siteDesc":"Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
+        "category":"Development"
+    },
+    {
+        "siteName":"Github",
+        "siteURL":"https:github.com/solistic-king",
+        "siteDesc":"github is a open source for coders",
+        "category":"Development"
+    },
 ]
