@@ -228,4 +228,11 @@ export const data=[
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
     }
+    {
+    
+        "siteName": "keras",
+        "siteURL": "https://keras.io/",
+        "siteDesc": "It follows best practices for reducing cognitive load and it offers consistent & simple APIs.",
+        "category": "Network Library"
+    }
 ]
