@@ -13,6 +13,12 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"Strapi",
+        "siteURL":"https://strapi.io",
+        "siteDesc":"Strapi is the next-gen headless CMS, open-source, javascript, enabling content-rich experiences to be created, managed and exposed to any digital device",
+        "category":"Development"
+    },
+    {
         "siteName": "Figma",
         "siteURL": "https://www.figma.com/",
         "siteDesc": "Web-based Vector Graphics editor & Prototyping tool",
