@@ -227,5 +227,12 @@ export const data=[
         "siteURL":"https://sass-lang.com/",
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
+    },
+    {
+        "siteName":"Google docs",
+        "siteURL":"https://docs.google.com/document",
+        "siteDesc":"This is used to make documents from online.",
+        "category":"Document"
     }
+        
 ]
