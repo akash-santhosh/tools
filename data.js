@@ -228,4 +228,10 @@ export const data=[
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
     }
+    {
+        "siteName":"W3schools",
+        "siteURL":"https://W3schools.COM/",
+        "siteDesc":"W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding..",
+        "category":"Development"
+    }
 ]
