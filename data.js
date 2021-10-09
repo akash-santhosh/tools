@@ -227,5 +227,11 @@ export const data=[
         "siteURL":"https://sass-lang.com/",
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
+    },
+    {
+        "siteName": "Figma",
+        "siteURL": "https://www.figma.com/",
+        "siteDesc": "Web-based Vector Graphics editor & Prototyping tool",
+        "category": "Design"
     }
 ]
