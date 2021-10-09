@@ -228,4 +228,9 @@ export const data=[
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
     }
+     "siteName":"jupyter notebook",
+        "siteURL":"https://jupyter.org/",
+        "siteDesc":"service for interactive computing across dozens of programming language",
+        "category":"Development"
+    }
 ]
