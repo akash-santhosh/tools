@@ -223,9 +223,17 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"
+    {
         "siteName":"sass",
         "siteURL":"https://sass-lang.com/",
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
+        "category":"Development"
+    },
+    {
+"siteName":"JQuery",
+        "siteURL":"https://jquery.com/",
+        "siteDesc":"JQuery is a fast, small, and feature-rich JavaScript library.",
         "category":"Development"
     }
 ]
