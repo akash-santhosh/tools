@@ -227,5 +227,11 @@ export const data=[
         "siteURL":"https://sass-lang.com/",
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
-    }
-]
+    },
+    {
+         "siteName":"ChaakraUI",
+        "siteURL":"",https://chakra-ui.com/
+        "siteDesc":"Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
+        "category":"Development"]
+    },
+    {
