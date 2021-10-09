@@ -228,4 +228,10 @@ export const data=[
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
     }
+    {
+        "siteName":"chakra",
+        "siteURL":"https://chakra-ui.com/",
+        "siteDesc":"chakra is the most mature, stable, and powerful professional grade CSS extension language in the world.",
+        "category":"Development"
+    }
 ]
