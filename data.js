@@ -227,5 +227,11 @@ export const data=[
         "siteURL":"https://sass-lang.com/",
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
+    },
+    {
+        "siteName": "VS CODE",
+        "siteURL": "https://code.visualstudio.com/",
+        "siteDesc": "Code editor redefined and optimized for building and debugging modern web and cloud applications",
+        "category": "Coding"
     }
 ]
