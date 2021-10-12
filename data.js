@@ -229,6 +229,18 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName": "VS CODE",
+        "siteURL": "https://code.visualstudio.com/",
+        "siteDesc": "Code editor redefined and optimized for building and debugging modern web and cloud applications",
+        "category": "Coding"
+    },
+    {
+        "siteName":"Bootstrap",
+        "siteURL":"https://getbootstrap.com/",
+        "siteDesc":"Helps in quick design and customization of responsive mobile sites.",
+        "category":"Development"  
+    },
+    {
         "siteName":"Pastebin",
         "siteURL":"https://pastebin.com/",
         "siteDesc":"Pastebin is a website where you can store any text online for easy sharing.",
