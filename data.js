@@ -238,7 +238,7 @@ export const data=[
         "siteName":"ChaakraUI",
         "siteURL":"https://chakra-ui.com/",
         "siteDesc":"Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
-        "category":"Development"]
+        "category":"Development"
      },
      { 
         "siteName":"COREGD",
