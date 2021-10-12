@@ -335,5 +335,12 @@ export const data=[
         "siteURL":"https://chakra-ui.com/",
         "siteDesc":"Chakra is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
-    }
-  ]
+    },
+    {
+    
+        "siteName":"material ui",
+        "siteURL":"https://mui.com/",
+        "siteDesc":"MUI provides a robust, customizable, and accessible library of foundational and advanced components, enabling you to build your own design system and develop React applications faster.",
+        "category":"Development"
+    },
+]
