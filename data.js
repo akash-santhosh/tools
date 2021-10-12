@@ -235,6 +235,12 @@ export const data=[
         "category":"Development"
     },
     {
+     "siteName":"jupyter notebook",
+        "siteURL":"https://jupyter.org/",
+        "siteDesc":"service for interactive computing across dozens of programming language",
+        "category":"Development"
+    },
+    {
         "siteName": "docker",
         "siteURL": "https://docker.com/hub",
         "siteDesc": "Developing,shipping and running applications",
