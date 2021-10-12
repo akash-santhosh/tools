@@ -254,9 +254,15 @@ export const data=[
     },
     {
         "siteName":"Github",
-        "siteURL":"https:github.com/solistic-king",
+        "siteURL":"https:github.com",
         "siteDesc":"github is a open source for coders",
         "category":"Development"
+    },
+    {
+        "siteName":"Manglish",
+        "siteURL":"https://manglish.app/type/",
+        "siteDesc":"English to Malayalam input tool, better in terms of UI and usability",
+        "category":"Other"
     },
     {
         "siteName":"PM2",
