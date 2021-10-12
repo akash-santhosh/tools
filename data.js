@@ -79,12 +79,6 @@ export const data=[
         "category":"Design"
     },
     {
-        "siteName":"Creately",
-        "siteURL":"https://creately.com/",
-        "siteDesc":"Collaboration tool with diagramming & design capabilities",
-        "category":"Others"
-    },
-    {
         "siteName":"JSON Formatter",
         "siteURL":"https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa",
         "siteDesc":"Assist in formatting & beautifying the JSON data (Chrome Extention)",
@@ -233,6 +227,48 @@ export const data=[
         "siteURL":"https://sass-lang.com/",
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
+    },
+    {
+        "siteName":"Pastebin",
+        "siteURL":"https://pastebin.com/",
+        "siteDesc":"Pastebin is a website where you can store any text online for easy sharing.",
+        "category":"Development"
+    },
+    {
+        "siteName":"Minify",
+        "siteURL":"https://www.minifier.org/",
+        "siteDesc":"This minifier removes whitespace & comments, combines files, and optimizes/shortens a few common programming patterns, boosting up website load time.",
+        "category":"Development"
+    },
+    {
+        "siteName":"Repl.it",
+        "siteURL":"https://www.repl.it/",
+        "siteDesc":"Powerful and simple online compiler, IDE, interpreter, and REPL",
+        "category":"Development"
+    },
+    {
+        "siteName":"Get Waves",
+        "siteURL":"https://getwaves.io/",
+        "siteDesc":"Create Randomized SVG waves for your next design.",
+        "category":"Design"
+    },
+    {
+        "siteName":"Gradient King",
+        "siteURL":"https://gradient-king.vercel.app/",
+        "siteDesc":"Never run out of gradients. Choose one from a large collection or generate custom from an uploaded image",
+        "category":"Design"
+    },
+    {
+        "siteName":"Notion",
+        "siteURL":"https://www.notion.so/",
+        "siteDesc":"The all-in-one workspace for your notes, tasks, wikis, and databases.",
+        "category":"Others"
+    },
+    {
+        "siteName":"Carbon.sh",
+        "siteURL":"https://carbon.now.sh/",
+        "siteDesc":"Create and share beautiful images of your source code.",
+        "category":"Others"
     },
     {
         "siteName":"Bootstrap",
