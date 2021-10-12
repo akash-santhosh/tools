@@ -317,5 +317,11 @@ export const data=[
         "siteURL":"https://pm2.keymetrics.io/",
         "siteDesc":"A process manager for NodeJs with a cool web UI. It monitors all kinds of stats about your server and also provides functionalities like an auto restart.",
         "category":"Development"
+    },
+    {
+        "siteName":"chakra",
+        "siteURL":"https://chakra-ui.com/",
+        "siteDesc":"Chakra is the most mature, stable, and powerful professional grade CSS extension language in the world.",
+        "category":"Development"
     }
   ]
