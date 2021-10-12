@@ -235,6 +235,12 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName":"Google docs",
+        "siteURL":"https://docs.google.com/document",
+        "siteDesc":"This is used to make documents from online.",
+        "category":"Document"
+    },
+    {
         "siteName": "keras",
         "siteURL": "https://keras.io/",
         "siteDesc": "It follows best practices for reducing cognitive load and it offers consistent & simple APIs.",
