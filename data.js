@@ -12,6 +12,12 @@ export const data=[
         "siteDesc":"Application monitoring and error tracking software",
         "category":"Development"
     },
+     {
+        "siteName": "CodePen",
+        "siteURL": "https://codepen.io/",
+        "siteDesc": "CodePen is a social development environment for front-end designers and developers",
+        "category": "Development"
+    },
     {
         "siteName":"Strapi",
         "siteURL":"https://strapi.io",
