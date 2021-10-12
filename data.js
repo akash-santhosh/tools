@@ -12,6 +12,18 @@ export const data=[
         "siteDesc":"Application monitoring and error tracking software",
         "category":"Development"
     },
+     {
+        "siteName": "CodePen",
+        "siteURL": "https://codepen.io/",
+        "siteDesc": "CodePen is a social development environment for front-end designers and developers",
+        "category": "Development"
+    },
+    {
+        "siteName":"Strapi",
+        "siteURL":"https://strapi.io",
+        "siteDesc":"Strapi is the next-gen headless CMS, open-source, javascript, enabling content-rich experiences to be created, managed and exposed to any digital device",
+        "category":"Development"
+    },
     {
         "siteName": "Figma",
         "siteURL": "https://www.figma.com/",
@@ -25,7 +37,7 @@ export const data=[
         "category": "Others"
     },
      {
-        "siteName": "miro board",
+        "siteName": "Miro Board",
         "siteURL": "https://www.miro.com/miro/",
         "siteDesc": "The online collaborative whiteboard platform to bring teams together, anytime, anywhere.",
         "category": "Others"
@@ -73,12 +85,6 @@ export const data=[
         "category":"Design"
     },
     {
-        "siteName":"Creately",
-        "siteURL":"https://creately.com/",
-        "siteDesc":"Collaboration tool with diagramming & design capabilities",
-        "category":"Others"
-    },
-    {
         "siteName":"JSON Formatter",
         "siteURL":"https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa",
         "siteDesc":"Assist in formatting & beautifying the JSON data (Chrome Extention)",
@@ -109,7 +115,7 @@ export const data=[
         "category":"Design"
     },
     {
-        "siteName":"axe DevTools",
+        "siteName":"Axe DevTools",
         "siteURL":"https://www.deque.com/axe/devtools/",
         "siteDesc":"Next level Accessibility Testing",
         "category":"Others"
@@ -163,7 +169,7 @@ export const data=[
         "category":"Development"
     },
     {
-        "siteName":"swagger",
+        "siteName":"Swagger",
         "siteURL":"https://swagger.io",
         "siteDesc":"Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset",
         "category":"Development"
@@ -187,7 +193,7 @@ export const data=[
         "category":"Development"
     },
     {
-        "siteName":"hugo",
+        "siteName":"Hugo",
         "siteURL":"https://hugo.com/",
         "siteDesc":"Hugo is one of the most popular open-source static site generators.",
         "category":"Development" 
@@ -223,7 +229,7 @@ export const data=[
         "category":"Development"
     },
     {
-        "siteName":"sass",
+        "siteName":"Sass",
         "siteURL":"https://sass-lang.com/",
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
@@ -233,6 +239,138 @@ export const data=[
         "siteURL":"https://docs.google.com/document",
         "siteDesc":"This is used to make documents from online.",
         "category":"Document"
-    }
-        
+    },
+    {
+        "siteName": "keras",
+        "siteURL": "https://keras.io/",
+        "siteDesc": "It follows best practices for reducing cognitive load and it offers consistent & simple APIs.",
+        "category": "Network Library"
+    },
+    {
+     "siteName":"jupyter notebook",
+        "siteURL":"https://jupyter.org/",
+        "siteDesc":"service for interactive computing across dozens of programming language",
+        "category":"Development"
+    },
+    {
+        "siteName": "docker",
+        "siteURL": "https://docker.com/hub",
+        "siteDesc": "Developing,shipping and running applications",
+        "category": "development"   
+    },
+    {
+        "siteName":"ChaakraUI",
+        "siteURL":"https://chakra-ui.com/",
+        "siteDesc":"Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
+        "category":"Development"
+    },
+    { 
+        "siteName":"COREGD",
+        "siteURL":"https://www.coregd.com/web-design-company-in-kerala/",
+        "siteDesc":"CoreGD offers web design, digital solutions and consulting services.",
+        "category":"Design"
+    },
+    {
+        "siteName": "VS CODE",
+        "siteURL": "https://code.visualstudio.com/",
+        "siteDesc": "Code editor redefined and optimized for building and debugging modern web and cloud applications",
+        "category": "Coding"
+    },
+    {
+        "siteName":"Bootstrap",
+        "siteURL":"https://getbootstrap.com/",
+        "siteDesc":"Helps in quick design and customization of responsive mobile sites.",
+        "category":"Development"  
+    },
+    {
+        "siteName":"Pastebin",
+        "siteURL":"https://pastebin.com/",
+        "siteDesc":"Pastebin is a website where you can store any text online for easy sharing.",
+        "category":"Development"
+    },
+    {
+        "siteName":"Minify",
+        "siteURL":"https://www.minifier.org/",
+        "siteDesc":"This minifier removes whitespace & comments, combines files, and optimizes/shortens a few common programming patterns, boosting up website load time.",
+        "category":"Development"
+    },
+    {
+        "siteName":"Repl.it",
+        "siteURL":"https://www.repl.it/",
+        "siteDesc":"Powerful and simple online compiler, IDE, interpreter, and REPL",
+        "category":"Development"
+    },
+    {
+        "siteName":"Get Waves",
+        "siteURL":"https://getwaves.io/",
+        "siteDesc":"Create Randomized SVG waves for your next design.",
+        "category":"Design"
+    },
+    {
+        "siteName":"Gradient King",
+        "siteURL":"https://gradient-king.vercel.app/",
+        "siteDesc":"Never run out of gradients. Choose one from a large collection or generate custom from an uploaded image",
+        "category":"Design"
+    },
+    {
+        "siteName":"Notion",
+        "siteURL":"https://www.notion.so/",
+        "siteDesc":"The all-in-one workspace for your notes, tasks, wikis, and databases.",
+        "category":"Others"
+    },
+    {
+        "siteName":"Carbon.sh",
+        "siteURL":"https://carbon.now.sh/",
+        "siteDesc":"Create and share beautiful images of your source code.",
+        "category":"Others"
+    },
+    {
+        "siteName":"Bootstrap",
+        "siteURL":"https://getbootstrap.com/",
+        "siteDesc":"Helps in quick design and customization of responsive mobile sites.",
+        "category":"Development"  
+    },
+    {
+        "siteName":"Netguru",
+        "siteURL":"https://www.netguru.com/services?utm_source=clutch&utm_medium=referral",
+        "siteDesc":"Design. Development. Consultancy. .",
+        "category":"Development"
+    },
+    {
+        "siteName":"W3schools",
+        "siteURL":"https://W3schools.COM/",
+        "siteDesc":"W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding..",
+        "category":"Development"
+    },
+    {
+        "siteName":"Github",
+        "siteURL":"https:github.com",
+        "siteDesc":"github is a open source for coders",
+        "category":"Development"
+    },
+    {
+        "siteName":"Manglish",
+        "siteURL":"https://manglish.app/type/",
+        "siteDesc":"English to Malayalam input tool, better in terms of UI and usability",
+        "category":"Other"
+    },
+    {
+        "siteName":"PM2",
+        "siteURL":"https://pm2.keymetrics.io/",
+        "siteDesc":"A process manager for NodeJs with a cool web UI. It monitors all kinds of stats about your server and also provides functionalities like an auto restart.",
+        "category":"Development"
+    },
+    {
+        "siteName":"chakra",
+        "siteURL":"https://chakra-ui.com/",
+        "siteDesc":"Chakra is the most mature, stable, and powerful professional grade CSS extension language in the world.",
+        "category":"Development"
+    },
+    {
+    
+        "siteName":"material ui",
+        "siteURL":"https://mui.com/",
+        "siteDesc":"MUI provides a robust, customizable, and accessible library of foundational and advanced components, enabling you to build your own design system and develop React applications faster.",
+        "category":"Development"
+    },
 ]
