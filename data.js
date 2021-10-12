@@ -235,6 +235,12 @@ export const data=[
         "category":"Development"
     },
     {
+        "siteName": "keras",
+        "siteURL": "https://keras.io/",
+        "siteDesc": "It follows best practices for reducing cognitive load and it offers consistent & simple APIs.",
+        "category": "Network Library"
+    },
+    {
      "siteName":"jupyter notebook",
         "siteURL":"https://jupyter.org/",
         "siteDesc":"service for interactive computing across dozens of programming language",
