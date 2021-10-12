@@ -31,7 +31,7 @@ export const data=[
         "category": "Others"
     },
      {
-        "siteName": "miro board",
+        "siteName": "Miro Board",
         "siteURL": "https://www.miro.com/miro/",
         "siteDesc": "The online collaborative whiteboard platform to bring teams together, anytime, anywhere.",
         "category": "Others"
@@ -109,7 +109,7 @@ export const data=[
         "category":"Design"
     },
     {
-        "siteName":"axe DevTools",
+        "siteName":"Axe DevTools",
         "siteURL":"https://www.deque.com/axe/devtools/",
         "siteDesc":"Next level Accessibility Testing",
         "category":"Others"
@@ -163,7 +163,7 @@ export const data=[
         "category":"Development"
     },
     {
-        "siteName":"swagger",
+        "siteName":"Swagger",
         "siteURL":"https://swagger.io",
         "siteDesc":"Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset",
         "category":"Development"
@@ -187,7 +187,7 @@ export const data=[
         "category":"Development"
     },
     {
-        "siteName":"hugo",
+        "siteName":"Hugo",
         "siteURL":"https://hugo.com/",
         "siteDesc":"Hugo is one of the most popular open-source static site generators.",
         "category":"Development" 
@@ -223,7 +223,7 @@ export const data=[
         "category":"Development"
     },
     {
-        "siteName":"sass",
+        "siteName":"Sass",
         "siteURL":"https://sass-lang.com/",
         "siteDesc":"Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
         "category":"Development"
@@ -269,5 +269,41 @@ export const data=[
         "siteURL":"https://carbon.now.sh/",
         "siteDesc":"Create and share beautiful images of your source code.",
         "category":"Others"
+    },
+    {
+        "siteName":"Bootstrap",
+        "siteURL":"https://getbootstrap.com/",
+        "siteDesc":"Helps in quick design and customization of responsive mobile sites.",
+        "category":"Development"  
+    },
+    {
+        "siteName":"Netguru",
+        "siteURL":"https://www.netguru.com/services?utm_source=clutch&utm_medium=referral",
+        "siteDesc":"Design. Development. Consultancy. .",
+        "category":"Development"
+    },
+    {
+        "siteName":"W3schools",
+        "siteURL":"https://W3schools.COM/",
+        "siteDesc":"W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding..",
+        "category":"Development"
+    },
+    {
+        "siteName":"Github",
+        "siteURL":"https:github.com",
+        "siteDesc":"github is a open source for coders",
+        "category":"Development"
+    },
+    {
+        "siteName":"Manglish",
+        "siteURL":"https://manglish.app/type/",
+        "siteDesc":"English to Malayalam input tool, better in terms of UI and usability",
+        "category":"Other"
+    },
+    {
+        "siteName":"PM2",
+        "siteURL":"https://pm2.keymetrics.io/",
+        "siteDesc":"A process manager for NodeJs with a cool web UI. It monitors all kinds of stats about your server and also provides functionalities like an auto restart.",
+        "category":"Development"
     }
-]
+  ]
