@@ -373,4 +373,12 @@ export const data=[
         "siteDesc":"MUI provides a robust, customizable, and accessible library of foundational and advanced components, enabling you to build your own design system and develop React applications faster.",
         "category":"Development"
     },
+     {
+    
+        "siteName":"Font Awesome",
+        "siteURL":"https://fontawesome.com/",
+        "siteDesc":"Icon set that gives you scalable vector images that can be customized with CSS.",
+        "category":"Design"
+    },
+    
 ]
