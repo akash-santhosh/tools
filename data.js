@@ -373,4 +373,12 @@ export const data=[
         "siteDesc":"MUI provides a robust, customizable, and accessible library of foundational and advanced components, enabling you to build your own design system and develop React applications faster.",
         "category":"Development"
     },
-]
+
+    {
+        
+        "siteName":"Python principles",
+        "siteURL":"https://pythonprinciples.com/",
+        "siteDesc":"Python principles is a website that helps you to learn python on the web browser with practical projects and easy tu understand concepts",
+        "category":"Development",
+    },
+]    
