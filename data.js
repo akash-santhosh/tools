@@ -1,5 +1,11 @@
-export const categories = ["Development","Design","Others"];
+export const categories = ["Web Development","Development","Design","Others"];
 export const data=[
+    {
+        "siteName":"Youtube",
+        "siteURL":"https://www.youtube.com/watch?v=Q33KBiDriJY&list=PL-I5kGu8rIgtxexw-43bZ1b93dP3GO89K&index=1&t=5666s",
+        "siteDesc":"Web Development Full Course from Scratch in 10 Hours",
+        "category":"Web Development"
+    },
     {
         "siteName":"Hoppscotch",
         "siteURL":"https://hoppscotch.io",
