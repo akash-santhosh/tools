@@ -373,4 +373,11 @@ export const data=[
         "siteDesc":"MUI provides a robust, customizable, and accessible library of foundational and advanced components, enabling you to build your own design system and develop React applications faster.",
         "category":"Development"
     },
+    {
+    
+        "siteName":"Thymeleaf",
+        "siteURL":"https://www.thymeleaf.org/",
+        "siteDesc":"Modern server-side Java template engine for both web and standalone environments.",
+        "category":"Design"
+    },
 ]
