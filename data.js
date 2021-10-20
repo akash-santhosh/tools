@@ -385,6 +385,13 @@ export const data = [
         "category":"Design"
     },
     {
+        
+        "siteName":"Python principles",
+        "siteURL":"https://pythonprinciples.com/",
+        "siteDesc":"Python principles is a website that helps you to learn python on the web browser with practical projects and easy tu understand concepts",
+        "category":"Development",
+    },
+    {
         "siteName": "Postman",
         "siteURL": "https://www.postman.com/",
         "siteDesc": "Most popular software testing tool which is used for API testing. With the help of this tool, developers can easily create, test, share, and document APIs.",
