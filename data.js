@@ -253,10 +253,16 @@ export const data = [
         "category": "Network Library"
     },
     {
-        "siteName": "jupyter notebook",
-        "siteURL": "https://jupyter.org/",
-        "siteDesc": "service for interactive computing across dozens of programming language",
-        "category": "Development"
+        "siteName":"UXPin",
+        "siteURL":"https://www.uxpin.com/home",
+        "siteDesc":"UXPin is a product design platform used by the best designers on the planet.",
+        "category":"Design"
+    },
+    {
+     "siteName":"jupyter notebook",
+        "siteURL":"https://jupyter.org/",
+        "siteDesc":"service for interactive computing across dozens of programming language",
+        "category":"Development"
     },
     {
         "siteName": "docker",
