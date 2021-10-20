@@ -379,6 +379,13 @@ export const data = [
         "category": "Development"
     },
     {
+    
+        "siteName":"Dartpad",
+        "siteURL":"https://dartpad.dev",
+        "siteDesc":"DartPad is an open source tool that lets you play with the Dart language in any modern browser.",
+        "category":"Development"
+    },
+    {
         "siteName":"Font Awesome",
         "siteURL":"https://fontawesome.com/",
         "siteDesc":"Icon set that gives you scalable vector images that can be customized with CSS.",
