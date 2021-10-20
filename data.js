@@ -374,6 +374,13 @@ export const data = [
         "category": "Development"
     },
     {
+    
+        "siteName":"Font Awesome",
+        "siteURL":"https://fontawesome.com/",
+        "siteDesc":"Icon set that gives you scalable vector images that can be customized with CSS.",
+        "category":"Design"
+    },
+    {
         "siteName": "Postman",
         "siteURL": "https://www.postman.com/",
         "siteDesc": "Most popular software testing tool which is used for API testing. With the help of this tool, developers can easily create, test, share, and document APIs.",
