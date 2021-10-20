@@ -386,6 +386,12 @@ export const data = [
         "category":"Development"
     },
     {
+        "siteName":"Material Design",
+        "siteURL":"https://material.io/",
+        "siteDesc":"material is a design system that helps teams build high-quality digital experiments",
+        "category":"Design"    
+    },
+    {
         "siteName":"Font Awesome",
         "siteURL":"https://fontawesome.com/",
         "siteDesc":"Icon set that gives you scalable vector images that can be customized with CSS.",
