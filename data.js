@@ -427,6 +427,12 @@ export const data = [
         "siteURL": "https://threejs.org/",
         "siteDesc": "Three.js tops this list of JavaScript animation libraries with 60K+ stars on GitHub. It’s dependent on WebGL to create and render 3D animations in the browser.",
         "category": "Development"
+    },
+    {
+        "siteName": "Cert Bot",
+        "siteURL": "https://certbot.eff.org/",
+        "siteDesc": "Free SSL Certificate for your server",
+        "category": "Development"
     }
 
 ]
