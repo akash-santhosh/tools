@@ -528,5 +528,11 @@ export const data = [
         "siteDesc": 
         "Free SSL Certificate for your server",
         "category": "Development"
+    },
+    {
+        "siteName": "React.js",
+        "siteURL": "https://reactjs.org/",
+        "siteDesc": "React.js documention and tutorials",
+        "category": "Development"
     }
 ]
