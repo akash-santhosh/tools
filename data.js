@@ -427,6 +427,18 @@ export const data = [
         "siteURL": "https://threejs.org/",
         "siteDesc": "Three.js tops this list of JavaScript animation libraries with 60K+ stars on GitHub. It’s dependent on WebGL to create and render 3D animations in the browser.",
         "category": "Development"
-    }
+    },
+    {
+        "siteName": "Sololearn",
+        "siteURL": "https://www.sololearn.com/home",
+        "siteDesc": "Through Sololearn, I have found many learners who have helped me grow. I have met teachers, engineers, developers, data scientists, and more amazing people. The learning environment created by Sololearn served as a catalyst for me to pick up good practices, which go beyond learning and into the workplace.",
+        "category": "Others"
+    },
+    {
+        "siteName": "Cdnjs",
+        "siteURL": "https://cdnjs.com/",
+        "siteDesc": "cdnjs is a free and open-source CDN service trusted by over 12.5% of all websites, serving over 200 billion requests each month, powered by Cloudflare. We make it faster and easier to load library files on your websites.",
+        "category": "Development"
+    },
 
 ]
