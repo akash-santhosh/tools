@@ -1,4 +1,4 @@
-export const categories = ["Development", "Design", "Others"];
+export const categories = ["Development", "Design", "Others", "Learning"];
 export const data = [
   {
     siteName: "Hoppscotch",
@@ -9,7 +9,8 @@ export const data = [
   {
     siteName: "Sentry",
     siteURL: "https://sentry.io",
-    siteDesc: "Application monitoring and error tracking software",
+    siteDesc: 
+    "Application monitoring and error tracking software",
     category: "Development",
   },
   {
@@ -485,4 +486,47 @@ export const data = [
       "Tinkercad is a free, easy-to-use web app that equips the next generation of designers and engineers with the foundational skills for innovation: 3D design, electronics, and coding!",
     category: "Development",
   },
-];
+  {
+    siteName: "FreeCodeCamp",
+    siteURL: "http://freecodecamp.org/",
+    siteDesc:
+      "freeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.",
+    category: "Learning",
+  },
+
+  {
+    siteName: "CSS-Tricks",
+    siteURL: "https://css-tricks.com/",
+    siteDesc:
+      "Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.",
+    category: "Learning",
+  },
+  {
+    siteName: "MDN Web Docs",
+    siteURL: "https://developer.mozilla.org/",
+    siteDesc:
+      "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.",
+    category: "Learning",
+  },
+  {
+        "siteName": "Sololearn",
+        "siteURL": "https://www.sololearn.com/home",
+        "siteDesc": 
+        "Through Sololearn, I have found many learners who have helped me grow. I have met teachers, engineers, developers, data scientists, and more amazing people. The learning environment created by Sololearn served as a catalyst for me to pick up good practices, which go beyond learning and into the workplace.",
+        "category": "Others"
+   },
+   {
+        "siteName": "Cdnjs",
+        "siteURL": "https://cdnjs.com/",
+        "siteDesc": 
+        "cdnjs is a free and open-source CDN service trusted by over 12.5% of all websites, serving over 200 billion requests each month, powered by Cloudflare. We make it faster and easier to load library files on your websites.",
+        "category": "Development"
+    },
+    {
+        "siteName": "Cert Bot",
+        "siteURL": "https://certbot.eff.org/",
+        "siteDesc": 
+        "Free SSL Certificate for your server",
+        "category": "Development"
+    }
+]
