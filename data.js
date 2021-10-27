@@ -440,5 +440,10 @@ export const data = [
         "siteDesc": "cdnjs is a free and open-source CDN service trusted by over 12.5% of all websites, serving over 200 billion requests each month, powered by Cloudflare. We make it faster and easier to load library files on your websites.",
         "category": "Development"
     },
-
+    {
+        "siteName": "Cert Bot",
+        "siteURL": "https://certbot.eff.org/",
+        "siteDesc": "Free SSL Certificate for your server",
+        "category": "Development"
+    }
 ]
