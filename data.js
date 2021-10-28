@@ -528,5 +528,11 @@ export const data = [
         "siteDesc": 
         "Free SSL Certificate for your server",
         "category": "Development"
+    },
+  {
+        "siteName": "Quillbot",
+        "siteURL": "https://quillbot.com/",
+        "siteDesc": "AI-powered text paraphrases",
+        "category": "Other"
     }
 ]
