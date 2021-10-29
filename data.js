@@ -529,10 +529,16 @@ export const data = [
         "Free SSL Certificate for your server",
         "category": "Development"
     },
-  {
+    {
         "siteName": "Quillbot",
         "siteURL": "https://quillbot.com/",
         "siteDesc": "AI-powered text paraphrases",
         "category": "Other"
+    },
+    {
+        "siteName": "React.js",
+        "siteURL": "https://reactjs.org/",
+        "siteDesc": "React.js documention and tutorials",
+        "category": "Development"
     }
 ]
