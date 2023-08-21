@@ -540,5 +540,17 @@ export const data = [
         "siteURL": "https://reactjs.org/",
         "siteDesc": "React.js documention and tutorials",
         "category": "Development"
+    },
+    {
+        "siteName": "Vue.js",
+        "siteURL": "https://vuejs.org/",
+        "siteDesc": "Vue.js is Progressive JavaScript Framework. See documention, examples and tutorials. ",
+        "category": "Development"
+    },
+    {
+        "siteName": "Angular.js",
+        "siteURL": "https://angular.io/",
+        "siteDesc": "Angular.js is modern web developer's platform. See documention",
+        "category": "Development"
     }
 ]
